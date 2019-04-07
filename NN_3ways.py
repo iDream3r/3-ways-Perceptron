@@ -1,4 +1,4 @@
-# Detailed simple Neural Network conception in Python
+# Detailed and simple Neural Network conception in Python
 # iDream3r
 
 # Required libraries importation
